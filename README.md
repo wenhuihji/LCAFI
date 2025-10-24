@@ -1,4 +1,4 @@
-# LCFI: Label Correlation and Feature Interaction Framework for Imbalanced Label Distribution Learning (ILDL)
+# ImLCFI: Imbalanced Label Distribution Learning with Label Correlation and Feature Interactions
 
 ## Project Overview
 This project implements the **LCFI** (Label Correlation and Feature Interaction) framework, designed to address the challenges of label correlation and feature interactions in Imbalanced Label Distribution Learning (ILDL). By explicitly modeling inter-label correlations and feature-label interactions, LCFI provides more accurate and stable learning results in applications with highly imbalanced label distributions.
